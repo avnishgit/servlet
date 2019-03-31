@@ -57,7 +57,7 @@ public class MarriageServlet extends HttpServlet {
 		// add hyperlink
 		pw.println("<a href='input.html'><img src='home.png' style='width: 79px; height: 72px'></a>");
 		// close stream
-		pw.close();//Avnish
+		pw.close();//Avnish Singh
 	}// doPost()
 
 	@Override
