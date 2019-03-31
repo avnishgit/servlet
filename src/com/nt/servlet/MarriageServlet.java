@@ -16,7 +16,7 @@ public class MarriageServlet extends HttpServlet {
 	@Override
 	public void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
 		System.out.println("doPost(-,-)");
-		PrintWriter pw = null;
+		PrintWriter pw = null;//jh
 		String name = null;
 		String tage = null;
 		String gender=null;
